@@ -1,6 +1,6 @@
 # test_pl
 
-A new Flutter plugin
+A new Flutter plugin develop for learning purpose
 
 ## Getting Started
 
